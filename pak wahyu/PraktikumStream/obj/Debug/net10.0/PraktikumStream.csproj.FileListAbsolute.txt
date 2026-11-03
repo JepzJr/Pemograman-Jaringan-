@@ -1,0 +1,14 @@
+C:\pak wahyu\PraktikumStream\obj\Debug\net10.0\PraktikumStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\pak wahyu\PraktikumStream\obj\Debug\net10.0\PraktikumStream.AssemblyInfoInputs.cache
+C:\pak wahyu\PraktikumStream\obj\Debug\net10.0\PraktikumStream.AssemblyInfo.cs
+C:\pak wahyu\PraktikumStream\obj\Debug\net10.0\PraktikumStream.csproj.CoreCompileInputs.cache
+C:\pak wahyu\PraktikumStream\bin\Debug\net10.0\PraktikumStream.exe
+C:\pak wahyu\PraktikumStream\bin\Debug\net10.0\PraktikumStream.deps.json
+C:\pak wahyu\PraktikumStream\bin\Debug\net10.0\PraktikumStream.runtimeconfig.json
+C:\pak wahyu\PraktikumStream\bin\Debug\net10.0\PraktikumStream.dll
+C:\pak wahyu\PraktikumStream\bin\Debug\net10.0\PraktikumStream.pdb
+C:\pak wahyu\PraktikumStream\obj\Debug\net10.0\PraktikumStream.dll
+C:\pak wahyu\PraktikumStream\obj\Debug\net10.0\refint\PraktikumStream.dll
+C:\pak wahyu\PraktikumStream\obj\Debug\net10.0\PraktikumStream.pdb
+C:\pak wahyu\PraktikumStream\obj\Debug\net10.0\PraktikumStream.genruntimeconfig.cache
+C:\pak wahyu\PraktikumStream\obj\Debug\net10.0\ref\PraktikumStream.dll

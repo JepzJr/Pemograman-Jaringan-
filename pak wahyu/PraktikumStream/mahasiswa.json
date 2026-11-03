@@ -1,0 +1,10 @@
+{
+  "NIM": 22001,
+  "Nama": "Jefri",
+  "Jurusan": "Teknologi Informasi",
+  "Matakuliah": [
+    "Pemrograman Jaringan",
+    "Kriptografi",
+    "Sistem Terdistribusi"
+  ]
+}
